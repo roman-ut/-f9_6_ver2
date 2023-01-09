@@ -4,6 +4,6 @@
 ````
 python3 -m venv venv
 source venv/bin/activate
-python main.py
+python server.py
 ````
 Сервер будет доступен по адресу http://localhost:8080/new, для получения уведомлений о потуплении новостей от иных пользователей оставаться нужно на данной ссылке
